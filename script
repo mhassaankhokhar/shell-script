@@ -1,0 +1,3 @@
+cat /etc/*release*
+java --version
+apt list --installed
